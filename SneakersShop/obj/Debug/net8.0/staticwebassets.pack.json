@@ -1,0 +1,993 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SneakersShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SneakersShop.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\animate.css",
+      "PackagePath": "staticwebassets\\template\\css\\animate.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\template\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\template\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\template\\css\\flexslider.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\template\\css\\icomoon.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\template\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\template\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\style.css",
+      "PackagePath": "staticwebassets\\template\\css\\style.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\template\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\template\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\template\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\template\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\template\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\template\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\template\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\template\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\about.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\boot.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\boot.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\brand-1.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\brand-2.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\brand-3.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\brand-5.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\cover-img-1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\cover-img-1.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\img_bg_1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\img_bg_1.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\img_bg_2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\img_bg_2.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\img_bg_3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\img_bg_3.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-1.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-10.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-10.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-11.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-11.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-12.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-12.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-13.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-13.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-14.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-14.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-15.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-15.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-16.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-16.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-2.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-3.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-4.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-4.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-5.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-5.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-6.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-6.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-7.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-7.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-8.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-8.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\item-9.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\item-9.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\laceup.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\laceup.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\template\\images\\loader.gif"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\loc.png",
+      "PackagePath": "staticwebassets\\template\\images\\loc.png"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\men.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\oxford.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\oxford.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\person1.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\person1.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\person2.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\person2.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\person3.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\person3.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\sandal.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\sandal.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\slipon.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\slipon.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\template\\images\\women.jpg"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\aos.js",
+      "PackagePath": "staticwebassets\\template\\js\\aos.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\template\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\template\\js\\google_map.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\template\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\main.js",
+      "PackagePath": "staticwebassets\\template\\js\\main.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\template\\js\\respond.min.js"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "F:\\SneakersShop\\SneakersShop\\SneakersShop\\wwwroot\\template\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\template\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SneakersShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SneakersShop.props",
+      "PackagePath": "build\\SneakersShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SneakersShop.props",
+      "PackagePath": "buildMultiTargeting\\SneakersShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SneakersShop.props",
+      "PackagePath": "buildTransitive\\SneakersShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

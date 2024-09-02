@@ -1,0 +1,22 @@
+﻿@model IEnumerable<SneakersShop.Models.Gender>
+@using SneakersShop.Models.ViewModels
+
+<div class="colorlib-product">
+	<div class="container-fluid">
+		<div class="row">
+			@foreach(var item in Model)
+					{
+			<div class="col-sm-6 text-center">
+				<div class="featured">
+						<a href="/Products/ProductsByGender/?genderId=@item.GenderId" class="featured-img" style="background-image: url(/template/images/item-15.jpg);"></a>
+					
+						<div class="desc">
+							<h2><a href="/Products/ProductsByGender/?genderId=@item.GenderId">Shop @item.GenderName Collection</a></h2>
+						</div>
+					
+				</div>
+			</div>
+					}
+		</div>
+	</div>
+</div>

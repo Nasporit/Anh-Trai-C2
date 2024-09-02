@@ -1,0 +1,76 @@
+﻿
+﻿@using SneakersShop.Models.ViewModels
+@model ProductListViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="breadcrumbs-two">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="breadcrumbs-img" style="background-image: url(/template/images/cover-img-1.jpg);">
+					<h2>Our Products</h2>
+				</div>
+				<div class="menu text-center">
+					<p><a href="/Products/ProductsByGender/?genderId=1">Men's'</a> <a href="/Products/ProductsByGender/?genderId=2">Woman's'</a> <a href="#">Best Seller</a> <a href="#">More</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="colorlib-product">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-xl-3">
+				<div class="row">
+					@await Component.InvokeAsync("BrandList")
+					@await Component.InvokeAsync("SizeList")
+					@await Component.InvokeAsync("CategoriesList")
+					@await Component.InvokeAsync("ColorList")
+					@await Component.InvokeAsync("GenderList")
+				</div>
+			</div>
+			<div class="col-lg-9 col-xl-9">
+				<div class="row row-pb-md">
+					@foreach(var item in Model.Products)
+					{
+						<div class="col-lg-4 mb-4 text-center">
+							<div class="product-entry border">
+								<a href="/Products/Details/@item.ProductId" class="prod-img">
+									<img src="@item.ProductPhoto" class="img-fluid" alt="">
+								</a>
+								<div class="desc">
+									<h2><a href="/Products/Details/@item.ProductId">@item.ProductName</a></h2>
+									<span class="price">@item.ProductPirce</span>
+								</div>
+							</div>
+						</div>
+					}
+					<div class="w-100"></div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<div class="block-27">
+							<ul>
+								<li><a href="#"><i class="ion-ios-arrow-back"></i></a></li>
+								@for (int i = 1; i<= Model.PagingInfo.TotalPage; i++)
+								{
+									<li class="active">
+										<a href="/Products/?productpage=@i">@i</a>
+									</li>
+								}
+								<li><a href="#"><i class="ion-ios-arrow-forward"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+@await Component.InvokeAsync("BrandSection")
